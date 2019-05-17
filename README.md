@@ -6,7 +6,8 @@ The last project in the Udacity Full stack nanodegree is to deploy Item catalog 
 <br>
 <ul><li>IP address: 13.234.238.115</li>
 <li>Accessible SSH port: 2200</li>
-<li>Application URL: http://ec2-13-234-238-115.ap-south-1.compute.amazonaws.com/</li></ul>
+<li>Application URL: http://ec2-13-234-238-115.ap-south-1.compute.amazonaws.com/</li>
+<li>[Grader]Password for sudo : jeevana396</li></ul>
 <br>
 
 ## Instructions to SSH into server.
